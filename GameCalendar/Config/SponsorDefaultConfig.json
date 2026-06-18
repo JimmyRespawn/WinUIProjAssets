@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Game Trailers",
+    "subtitle": "Latest and coolest game trailers.",
+    "navigatetitle": "Explore",
+    "badgetitle": "APP",
+    "icon": "\uEC4F",
+    "link": "ms-windows-store://pdp/?ProductId=9P6V0D62D4BQ&amp;cid=podcastedbanner",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": "https://od.lk/s/236837316_hKjt3/BannerTwo.webp",
+    "adsType": 1,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "GLOBAL",
+    "platform": "DESKTOP|XBOX"
+  },
+  {
+    "title": "Sponsor",
+    "subtitle": "We are now accepting sponsorships for in-store apps, and games.",
+    "navigatetitle": "Contact for info",
+    "badgetitle": "SPONSORED",
+    "icon": "\uF61F",
+    "link": "mailto:jimmylinidea@gmail.com?subject=Game%20Calendar%20Sponsor%20Request&body=Hello%2C%0A%0AI'd%20love%20to%20sponsor%20Game%20Calendar%20app%20and%20get%20featured%20in%20the%20banner.%20%0APlease%20provide%20more%20information%20to%20me.",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": " ",
+    "adsType": 3,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "GLOBAL",
+    "platform": "DESKTOP"
+  }
+]
